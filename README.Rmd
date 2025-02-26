@@ -15,3 +15,7 @@ Here is more text that will be added in my second commit.
 # My third commit
 
 Here is some final text for my third commit.
+
+# My testing branch
+
+Here is some text that I will commit to the test branch.
