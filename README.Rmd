@@ -20,6 +20,6 @@ Here is some final text for my third commit.
 
 Here is some text that I will commit to the test branch.
 
-# My new_teset branch
+# My new_test branch
 
-Here is some text that I will commmit tot he new_test branch.
+Here is some text that I will commit tot he new_test branch.
