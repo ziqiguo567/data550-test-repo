@@ -6,6 +6,7 @@ Ziqi Guo
 
 Here is some text that constitutes my first commit in my first repo. I
 an now adding a new line to this first commit section of the readme.
+text for another commit
 
 \#My second commit
 
